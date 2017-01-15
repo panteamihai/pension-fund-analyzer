@@ -1,0 +1,357 @@
+﻿using LiveCharts;
+using LiveCharts.Helpers;
+using LiveCharts.Wpf;
+using PensionAnalysis.Helpers;
+using PensionAnalysis.Models;
+using ReactiveUI;
+using System;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Linq;
+using System.Reactive;
+using System.Reactive.Linq;
+using System.Reactive.Subjects;
+using System.Threading;
+using System.Windows;
+using System.Windows.Forms;
+using System.Windows.Media;
+using System.Xml.Linq;
+using DColor = System.Drawing.Color;
+using MColor = System.Windows.Media.Color;
+
+namespace PensionAnalysis
+{
+    public partial class Dash : Form
+    {
+        private List<MonthlyPercentageInfo> _monthlyPercentages = new List<MonthlyPercentageInfo>();
+        private readonly List<DailyVuanInfo> _monthlyVuanValues = new List<DailyVuanInfo>();
+        private List<DailyVuanInfo> _dailyVuanValues = new List<DailyVuanInfo>();
+
+        private List<Provider> _allAvailableProviders;
+        private List<int> _allYears;
+
+        private readonly ReactiveList<Provider> _selectedProviders = new ReactiveList<Provider>();
+        private readonly ReactiveList<int> _selectedYears = new ReactiveList<int>();
+        private readonly Subject<Unit> _simplifyVuanChart = new Subject<Unit>();
+
+        private static readonly List<int> RecentYears = new List<int> { 2017, 2016, 2015 };
+        private static readonly List<Provider> CurrentProviders = new List<Provider> { Provider.BCR, Provider.Allianz, Provider.Generali };
+
+        public Dash()
+        {
+            InitializeComponent();
+        }
+
+        private void Dash_Load(object sender, EventArgs ea)
+        {
+            ParseData();
+
+            _allAvailableProviders =
+                Enum.GetValues(typeof(Provider)).OfType<Provider>().Where(p => p != Provider.None).ToList();
+
+            _selectedYears.ItemsAdded.Select(e => Unit.Default)
+                .Merge(_simplifyVuanChart)
+                .Throttle(TimeSpan.FromMilliseconds(1500))
+                .ObserveOn(SynchronizationContext.Current)
+                .Subscribe(_ => RebuildGraph());
+
+            _selectedYears.ItemsAdded.Select(e => Unit.Default)
+                .Subscribe(_ => SelectedYearsChanged());
+            _selectedYears.ItemsAdded.Select(e => Unit.Default)
+                .Throttle(TimeSpan.FromMilliseconds(100))
+                .ObserveOn(SynchronizationContext.Current)
+                .Subscribe(_ => TickAllYearsIfNecessary());
+
+            _selectedProviders.ItemsAdded.Select(e => Unit.Default)
+                .Merge(_selectedProviders.ItemsRemoved.Select(e => Unit.Default))
+                .Subscribe(_ => SelectedProvidersChanged());
+            _selectedProviders.ItemsAdded.Select(e => Unit.Default)
+                .Merge(_selectedProviders.ItemsRemoved.Select(e => Unit.Default))
+                .Throttle(TimeSpan.FromMilliseconds(50))
+                .ObserveOn(SynchronizationContext.Current)
+                .Subscribe(
+                    _ =>
+                    {
+                        TickAllProvidersIfNecessary();
+                        ToggleProviderLineSeriesVisibility();
+                    });
+
+        _allYears.ForEach(y =>
+            {
+                var button = new Button { Text = y.ToString(), Tag = y };
+                button.Click += YearSelection_Click;
+                pnlYears.Controls.Add(button);
+            });
+
+            _allAvailableProviders.ForEach(
+                e =>
+                {
+                    var button = new Button { Text = e.ToString(), Tag = e, BackColor = _selectedProviders.Contains(e) ? GetProviderColor(e) : DColor.DarkGray };
+                    button.Click += ProviderSelection_Click;
+                    pnlProviders.Controls.Add(button);
+                });
+
+            percentageChart.LegendLocation = LegendLocation.None;
+            percentageChart.DisableAnimations = true;
+            vuanChart.LegendLocation = LegendLocation.None;
+            vuanChart.DisableAnimations = true;
+
+            vuanChart.AxisY.Clear();
+            vuanChart.AxisY.Add(new Axis
+            {
+                Title = "Vuan Value",
+                LabelFormatter = value => value.ToString("N4", new CultureInfo("en-US"))
+            });
+
+            percentageChart.AxisY.Clear();
+            percentageChart.AxisY.Add(new Axis
+            {
+                Title = "Anualized (2 years) Profitability Percentage",
+                LabelFormatter = value => value.ToString("N4", new CultureInfo("en-US"))
+            });
+
+            //Trigger
+            _selectedYears.AddRange(RecentYears);
+        }
+
+        private void ToggleProviderLineSeriesVisibility()
+        {
+            var selectedProviderNames = _selectedProviders.Select(p => p.ToString()).ToList();
+            percentageChart.Series.OfType<LineSeries>().ForEach(s => s.Visibility = selectedProviderNames.Contains(s.Title) ? Visibility.Visible : Visibility.Hidden);
+            vuanChart.Series.OfType<LineSeries>().ForEach(s => s.Visibility = selectedProviderNames.Contains(s.Title) ? Visibility.Visible : Visibility.Hidden);
+        }
+
+        private void ParseData()
+        {
+            var percentages = XDocument.Load(@"Data\MP.xml");
+            _monthlyPercentages = percentages.Root.Descendants("item").Select(
+                i => new MonthlyPercentageInfo
+                     {
+                         Type = EnumMixins.GetValueFromDescription<Pillar>(i.Element("pilon").Value),
+                         Provider = EnumMixins.GetValueFromDescription<Provider>(i.Element("entitate").Value),
+                         DateOfReference = DateTime.ParseExact(i.Element("data").Value, "dd.MM.yyyy", null),
+                         Percentage = Decimal.Parse(i.Element("rata").Value),
+                         Degree = EnumMixins.GetValueFromDescription<Risk>(i.Element("risc").Value)
+                     }).ToList();
+
+            var vuans = XDocument.Load(@"Data\VUAN.xml");
+            _dailyVuanValues = vuans.Root.Descendants("item").Select(
+                i => new DailyVuanInfo
+                     {
+                         Type = EnumMixins.GetValueFromDescription<Pillar>(i.Element("pilon").Value),
+                         Provider = EnumMixins.GetValueFromDescription<Provider>(i.Element("entitate").Value),
+                         DateOfReference = DateTime.ParseExact(i.Element("data").Value, "dd.MM.yyyy", null),
+                         Vuan = Decimal.Parse(i.Element("vuan").Value)
+                     }).ToList();
+
+            _allYears = _monthlyPercentages.Select(mi => mi.DateOfReference.Year).Distinct().OrderByDescending(y => y).ToList();
+
+            var dailyVuanByProviders = _dailyVuanValues.GroupBy(v => v.Provider).Select(g => new { Provider = g.Key, VUANs = g.ToList().OrderByDescending(v => v.DateOfReference) });
+            foreach (var kv in dailyVuanByProviders)
+            {
+                foreach (var year in _allYears)
+                {
+                    var byMonth = kv.VUANs.Where(v => v.DateOfReference.Year == year).GroupBy(v => v.DateOfReference.Month).Select(g => new { Month = g.Key, VUANs = g.ToList() });
+                    foreach (var kvm in byMonth)
+                    {
+                        var count = kvm.VUANs.Count;
+                        if (count <= 3)
+                            _monthlyVuanValues.AddRange(kvm.VUANs);
+                        else
+                        {
+                            var firstSample = (int)Math.Round(0.33 * count, MidpointRounding.ToEven);
+                            _monthlyVuanValues.Add(kvm.VUANs[firstSample]);
+                            var secondSample = (int)Math.Round(0.66 * count, MidpointRounding.ToEven);
+                            _monthlyVuanValues.Add(kvm.VUANs[secondSample]);
+                            if (secondSample != count - 1)
+                                _monthlyVuanValues.Add(kvm.VUANs[count - 1]);
+                        }
+                    }
+                }
+            }
+        }
+
+        private void YearSelection_Click(object sender, EventArgs e)
+        {
+            var button = (Button)sender;
+            var selectedYear = Int32.Parse(button.Text);
+
+            _selectedYears.Clear();
+            _selectedYears.AddRange(_allYears.OrderBy(y => y).SkipWhile(y => y < selectedYear).ToList());
+        }
+
+        private void ProviderSelection_Click(object sender, EventArgs e)
+        {
+            var button = (Button)sender;
+            var provider = (Provider)button.Tag;
+
+            var isDisplayed = _selectedProviders.Contains(provider);
+            if (isDisplayed) _selectedProviders.Remove(provider);
+            else _selectedProviders.Add(provider);
+        }
+
+        private void RebuildGraph()
+        {
+            var selectedProviders = _selectedProviders.ToList();
+            _selectedProviders.Clear();
+
+            prg.Style = ProgressBarStyle.Marquee;
+            prg.MarqueeAnimationSpeed = 30;
+            pnlMenu.Enabled = false;
+            scCharts.Visible = false;
+
+            percentageChart.Series.Clear();
+            _allAvailableProviders.ForEach(
+                p =>
+                {
+                    var values = new ChartValues<decimal>();
+                    values.AddRange(
+                        _monthlyPercentages
+                            .Where(mi => mi.Provider == p && _selectedYears.Contains(mi.DateOfReference.Year))
+                            .OrderBy(mi => mi.DateOfReference)
+                            .Select(mi => mi.Percentage));
+
+                    percentageChart.Series.Add(
+                        new LineSeries
+                        {
+                            Values = values,
+                            LineSmoothness = 1, //straight lines, 1 really smooth lines
+                            Title = p.ToString(),
+                            Fill = new SolidColorBrush(ToMediaColor(GetProviderColor(p), 64)),
+                            Stroke = new SolidColorBrush(ToMediaColor(GetProviderColor(p), 255)),
+                            Visibility = Visibility.Visible
+                        });
+                });
+
+            percentageChart.AxisX.Clear();
+            percentageChart.AxisX.Add(new Axis { Title = "Months", Labels = _monthlyPercentages
+                                                                               .Where(mi => mi.Provider == Provider.BCR) //just one, doesn't matter which
+                                                                               .Where(mi => _selectedYears.Contains(mi.DateOfReference.Year))
+                                                                               .Select(mi => mi.DateOfReference)
+                                                                               .OrderBy(d => d)
+                                                                               .Select(d => d.ToString("MMM yy"))
+                                                                               .Distinct()
+                                                                               .ToArray() });
+
+            vuanChart.Series.Clear();
+            var vuanValues = chkSimplifyVUANGraph.Checked ? _monthlyVuanValues : _dailyVuanValues;
+
+            _allAvailableProviders.ForEach(
+                p =>
+                {
+                    var values = new ChartValues<decimal>();
+                    values.AddRange(
+                        vuanValues
+                            .Where(mi => mi.Provider == p && _selectedYears.Contains(mi.DateOfReference.Year))
+                            .OrderBy(mi => mi.DateOfReference)
+                            .Select(mi => mi.Vuan));
+
+                    vuanChart.Series.Add(
+                        new LineSeries
+                        {
+                            Values = values,
+                            LineSmoothness = 1, //straight lines, 1 really smooth lines
+                            Title = p.ToString(),
+                            Tag = p,
+                            Fill = new SolidColorBrush(ToMediaColor(GetProviderColor(p), 64)),
+                            Stroke = new SolidColorBrush(ToMediaColor(GetProviderColor(p), 255)),
+                            Visibility = Visibility.Visible
+                        });
+                });
+
+            vuanChart.AxisX.Clear();
+            vuanChart.AxisX.Add(new Axis
+            {
+                Title = "Day", Labels = vuanValues
+                                            .Where(mi => mi.Provider == Provider.BCR) //just one, doesn't matter which
+                                            .Where(mi => _selectedYears.Contains(mi.DateOfReference.Year))
+                                            .Select(mi => mi.DateOfReference)
+                                            .OrderBy(d => d)
+                                            .Select(d => d.ToString("dd MMM yy"))
+                                            .Distinct()
+                                            .ToArray()
+            });
+
+            _selectedProviders.AddRange(selectedProviders.Any() ? selectedProviders : CurrentProviders);
+
+            pnlMenu.Enabled = true;
+            scCharts.Visible = true;
+            prg.Style = ProgressBarStyle.Continuous;
+            prg.MarqueeAnimationSpeed = 0;
+        }
+
+        public static MColor ToMediaColor(DColor color, byte? opacity = null)
+        {
+            return MColor.FromArgb(opacity ?? color.A, color.R, color.G, color.B);
+        }
+
+        public DColor GetProviderColor(Provider provider)
+        {
+            switch (provider)
+            {
+                case Provider.BCR:
+                    return DColor.DarkCyan;
+                case Provider.Generali:
+                    return DColor.Brown;
+                case Provider.Allianz:
+                    return DColor.DodgerBlue;
+                case Provider.MetropolitanLife:
+                    return DColor.DarkSlateBlue;
+                case Provider.NN:
+                    return DColor.Orange;
+                case Provider.Aegon:
+                    return DColor.Yellow;
+                case Provider.BRD:
+                    return DColor.Red;
+            }
+
+            return DColor.Indigo;
+        }
+
+        private void AllYearsSelectionChanged(object sender, EventArgs e)
+        {
+            _selectedYears.Clear();
+            _selectedYears.AddRange(chkAllYears.Checked ? _allYears : RecentYears);
+        }
+        private void SelectedYearsChanged()
+        {
+            pnlYears.Controls.OfType<Button>()
+                .ForEach(b => b.BackColor = _selectedYears.Contains((int)b.Tag) ? DColor.LightCoral : DColor.DarkGray);
+        }
+
+        private void TickAllYearsIfNecessary()
+        {
+            chkAllYears.CheckedChanged -= AllYearsSelectionChanged;
+            chkAllYears.Checked = !_allYears.Except(_selectedYears).Any();
+            chkAllYears.CheckedChanged += AllYearsSelectionChanged;
+        }
+
+        private void AllProvidersSelectionChanged(object sender, EventArgs e)
+        {
+            _selectedProviders.Clear();
+            _selectedProviders.AddRange(chkAllProviders.Checked ? _allAvailableProviders : CurrentProviders);
+        }
+
+        private void SelectedProvidersChanged()
+        {
+            pnlProviders.Controls.OfType<Button>()
+                .ForEach(b =>
+                {
+                    var provider = (Provider)b.Tag;
+                    b.BackColor = _selectedProviders.Contains(provider) ? GetProviderColor(provider) : DColor.DarkGray;
+                });
+        }
+
+        private void TickAllProvidersIfNecessary()
+        {
+            chkAllProviders.CheckedChanged -= AllProvidersSelectionChanged;
+            chkAllProviders.Checked = !_allAvailableProviders.Except(_selectedProviders).Any();
+            chkAllProviders.CheckedChanged += AllProvidersSelectionChanged;
+        }
+
+        private void ReduceVuanChartPoints_CheckedChanged(object sender, EventArgs e)
+        {
+            _simplifyVuanChart.OnNext(Unit.Default);
+        }
+    }
+}
