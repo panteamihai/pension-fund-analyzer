@@ -1,6 +1,6 @@
 ﻿using LiveCharts;
-using LiveCharts.Helpers;
 using LiveCharts.Wpf;
+using MoreLinq;
 using PensionAnalysis.Helpers;
 using PensionAnalysis.Models;
 using ReactiveUI;
@@ -16,28 +16,29 @@ using System.Windows;
 using System.Windows.Forms;
 using System.Windows.Media;
 using System.Xml.Linq;
+using PensionAnalysis.Extensions;
 using DColor = System.Drawing.Color;
 using MColor = System.Windows.Media.Color;
 
 namespace PensionAnalysis
 {
-    public partial class Dash : Form
+    public partial class Dashboard : Form
     {
-        private List<MonthlyPercentageInfo> _monthlyPercentages = new List<MonthlyPercentageInfo>();
+        private IEnumerable<MonthlyPercentageInfo> _monthlyPercentages = new List<MonthlyPercentageInfo>();
         private readonly List<DailyVuanInfo> _monthlyVuanValues = new List<DailyVuanInfo>();
-        private List<DailyVuanInfo> _dailyVuanValues = new List<DailyVuanInfo>();
+        private IEnumerable<DailyVuanInfo> _dailyVuanValues = new List<DailyVuanInfo>();
 
-        private List<Provider> _allAvailableProviders;
-        private List<int> _allYears;
+        private IEnumerable<Provider> _allAvailableProviders;
+        private IEnumerable<int> _allYears;
 
         private readonly ReactiveList<Provider> _selectedProviders = new ReactiveList<Provider>();
         private readonly ReactiveList<int> _selectedYears = new ReactiveList<int>();
         private readonly Subject<Unit> _simplifyVuanChart = new Subject<Unit>();
 
-        private static readonly List<int> RecentYears = new List<int> { 2017, 2016, 2015 };
+        private static readonly List<int> RecentYears = new List<int> { 2018, 2017, 2016 };
         private static readonly List<Provider> CurrentProviders = new List<Provider> { Provider.BCR, Provider.Allianz, Provider.Generali };
 
-        public Dash()
+        public Dashboard()
         {
             InitializeComponent();
         }
@@ -49,24 +50,25 @@ namespace PensionAnalysis
             _allAvailableProviders =
                 Enum.GetValues(typeof(Provider)).OfType<Provider>().Where(p => p != Provider.None).ToList();
 
-            _selectedYears.ItemsAdded.Select(e => Unit.Default)
+            _selectedYears.ItemsAdded.ToUnit()
                 .Merge(_simplifyVuanChart)
-                .Throttle(TimeSpan.FromMilliseconds(1500))
+                .Throttle(TimeSpan.FromMilliseconds(1000))
                 .ObserveOn(SynchronizationContext.Current)
                 .Subscribe(_ => RebuildGraph());
 
-            _selectedYears.ItemsAdded.Select(e => Unit.Default)
+            _selectedYears.ItemsAdded.ToUnit()
                 .Subscribe(_ => SelectedYearsChanged());
-            _selectedYears.ItemsAdded.Select(e => Unit.Default)
+
+            _selectedYears.ItemsAdded.ToUnit()
                 .Throttle(TimeSpan.FromMilliseconds(100))
                 .ObserveOn(SynchronizationContext.Current)
                 .Subscribe(_ => TickAllYearsIfNecessary());
 
-            _selectedProviders.ItemsAdded.Select(e => Unit.Default)
-                .Merge(_selectedProviders.ItemsRemoved.Select(e => Unit.Default))
+            _selectedProviders.ItemsAdded.ToUnit()
+                .Merge(_selectedProviders.ItemsRemoved.ToUnit())
                 .Subscribe(_ => SelectedProvidersChanged());
-            _selectedProviders.ItemsAdded.Select(e => Unit.Default)
-                .Merge(_selectedProviders.ItemsRemoved.Select(e => Unit.Default))
+            _selectedProviders.ItemsAdded.ToUnit()
+                .Merge(_selectedProviders.ItemsRemoved.ToUnit())
                 .Throttle(TimeSpan.FromMilliseconds(50))
                 .ObserveOn(SynchronizationContext.Current)
                 .Subscribe(
@@ -79,7 +81,7 @@ namespace PensionAnalysis
         _allYears.ForEach(y =>
             {
                 var button = new Button { Text = y.ToString(), Tag = y };
-                button.Click += YearSelection_Click;
+                button.Click += YearSelectionClick;
                 pnlYears.Controls.Add(button);
             });
 
@@ -87,7 +89,7 @@ namespace PensionAnalysis
                 e =>
                 {
                     var button = new Button { Text = e.ToString(), Tag = e, BackColor = _selectedProviders.Contains(e) ? GetProviderColor(e) : DColor.DarkGray };
-                    button.Click += ProviderSelection_Click;
+                    button.Click += ProviderSelectionClick;
                     pnlProviders.Controls.Add(button);
                 });
 
@@ -123,26 +125,26 @@ namespace PensionAnalysis
 
         private void ParseData()
         {
-            var percentages = XDocument.Load(@"Data\MP.xml");
-            _monthlyPercentages = percentages.Root.Descendants("item").Select(
+            var percentages = XDocument.Load(@"Data\export-RR.xml");
+            _monthlyPercentages = percentages.Root?.Descendants("item").Select(
                 i => new MonthlyPercentageInfo
                      {
-                         Type = EnumMixins.GetValueFromDescription<Pillar>(i.Element("pilon").Value),
-                         Provider = EnumMixins.GetValueFromDescription<Provider>(i.Element("entitate").Value),
-                         DateOfReference = DateTime.ParseExact(i.Element("data").Value, "dd.MM.yyyy", null),
-                         Percentage = Decimal.Parse(i.Element("rata").Value),
-                         Degree = EnumMixins.GetValueFromDescription<Risk>(i.Element("risc").Value)
-                     }).ToList();
+                         Type = EnumHelper.GetValueFromDescription<Pillar>(i.Element("pilon")?.Value),
+                         Provider = EnumHelper.GetValueFromDescription<Provider>(i.Element("entitate")?.Value),
+                         DateOfReference = DateTime.ParseExact(i.Element("data")?.Value, "dd.MM.yyyy", null),
+                         Percentage = decimal.Parse(i.Element("rata")?.Value ?? string.Empty),
+                         Degree = EnumHelper.GetValueFromDescription<Risk>(i.Element("risc")?.Value)
+                     }) ?? Enumerable.Empty<MonthlyPercentageInfo>();
 
-            var vuans = XDocument.Load(@"Data\VUAN.xml");
-            _dailyVuanValues = vuans.Root.Descendants("item").Select(
+            var vuans = XDocument.Load(@"Data\export-VUAN.xml");
+            _dailyVuanValues = vuans.Root?.Descendants("item").Select(
                 i => new DailyVuanInfo
                      {
-                         Type = EnumMixins.GetValueFromDescription<Pillar>(i.Element("pilon").Value),
-                         Provider = EnumMixins.GetValueFromDescription<Provider>(i.Element("entitate").Value),
-                         DateOfReference = DateTime.ParseExact(i.Element("data").Value, "dd.MM.yyyy", null),
-                         Vuan = Decimal.Parse(i.Element("vuan").Value)
-                     }).ToList();
+                         Type = EnumHelper.GetValueFromDescription<Pillar>(i.Element("pilon")?.Value),
+                         Provider = EnumHelper.GetValueFromDescription<Provider>(i.Element("entitate")?.Value),
+                         DateOfReference = DateTime.ParseExact(i.Element("data")?.Value, "dd.MM.yyyy", null),
+                         Vuan = decimal.Parse(i.Element("vuan")?.Value ?? string.Empty)
+                     }) ?? Enumerable.Empty<DailyVuanInfo>();
 
             _allYears = _monthlyPercentages.Select(mi => mi.DateOfReference.Year).Distinct().OrderByDescending(y => y).ToList();
 
@@ -171,16 +173,16 @@ namespace PensionAnalysis
             }
         }
 
-        private void YearSelection_Click(object sender, EventArgs e)
+        private void YearSelectionClick(object sender, EventArgs e)
         {
             var button = (Button)sender;
-            var selectedYear = Int32.Parse(button.Text);
+            var selectedYear = int.Parse(button.Text);
 
             _selectedYears.Clear();
             _selectedYears.AddRange(_allYears.OrderBy(y => y).SkipWhile(y => y < selectedYear).ToList());
         }
 
-        private void ProviderSelection_Click(object sender, EventArgs e)
+        private void ProviderSelectionClick(object sender, EventArgs e)
         {
             var button = (Button)sender;
             var provider = (Provider)button.Tag;
@@ -290,7 +292,7 @@ namespace PensionAnalysis
             switch (provider)
             {
                 case Provider.BCR:
-                    return DColor.DarkCyan;
+                    return DColor.DarkBlue;
                 case Provider.Generali:
                     return DColor.Brown;
                 case Provider.Allianz:

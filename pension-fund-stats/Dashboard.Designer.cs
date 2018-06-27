@@ -1,6 +1,6 @@
 ﻿namespace PensionAnalysis
 {
-    partial class Dash
+    partial class Dashboard
     {
         /// <summary>
         /// Required designer variable.

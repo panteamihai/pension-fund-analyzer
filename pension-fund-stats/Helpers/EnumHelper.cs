@@ -3,7 +3,7 @@ using System.ComponentModel;
 
 namespace PensionAnalysis.Helpers
 {
-    public static class EnumMixins
+    public static class EnumHelper
     {
         public static T GetValueFromDescription<T>(string description)
         {
@@ -11,9 +11,7 @@ namespace PensionAnalysis.Helpers
             if (!type.IsEnum) throw new InvalidOperationException();
             foreach (var field in type.GetFields())
             {
-                var attribute = Attribute.GetCustomAttribute(field,
-                    typeof(DescriptionAttribute)) as DescriptionAttribute;
-                if (attribute != null)
+                if (Attribute.GetCustomAttribute(field, typeof(DescriptionAttribute)) is DescriptionAttribute attribute)
                 {
                     if (attribute.Description == description)
                         return (T)field.GetValue(null);
