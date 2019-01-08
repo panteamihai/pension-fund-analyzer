@@ -5,4 +5,4 @@ Allows for comparisons between the seven available funds: NN, VITAL, ARIPI, AZT 
 
 ## The source of the statistics
 Retrieved the data for the [unit values](https://asfromania.ro/informatii-publice/statistici/statistici-pensii/pilonul-ii/indice-vuan) and [profit margin](https://asfromania.ro/informatii-publice/statistici/statistici-pensii/pilonul-ii/rate-de-rentabilitate) from the [ASF Romania public website](https://asfromania.ro/)
-The latest data covers the 01.05.2008 to 31.05.2018 interval.
+The latest data covers the 20.05.2008 to 31.12.2018 interval.

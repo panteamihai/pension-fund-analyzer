@@ -125,7 +125,7 @@ namespace PensionAnalysis
 
         private void ParseData()
         {
-            var percentages = XDocument.Load(@"Data\export-RR.xml");
+            var percentages = XDocument.Load(@"Data\export-RR-P2.xml");
             _monthlyPercentages = percentages.Root?.Descendants("item").Select(
                 i => new MonthlyPercentageInfo
                      {
@@ -136,7 +136,7 @@ namespace PensionAnalysis
                          Degree = EnumHelper.GetValueFromDescription<Risk>(i.Element("risc")?.Value)
                      }) ?? Enumerable.Empty<MonthlyPercentageInfo>();
 
-            var vuans = XDocument.Load(@"Data\export-VUAN.xml");
+            var vuans = XDocument.Load(@"Data\export-VUAN-P2.xml");
             _dailyVuanValues = vuans.Root?.Descendants("item").Select(
                 i => new DailyVuanInfo
                      {

@@ -135,10 +135,16 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Data\export-RR.xml">
+    <Content Include="Data\export-RR-P2.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Data\export-VUAN.xml">
+    <Content Include="Data\export-RR-P3.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\export-VUAN-P2.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\export-VUAN-P3.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>

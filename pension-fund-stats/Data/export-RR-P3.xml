@@ -1,0 +1,7122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>06.12.2018</data>
+		<rata>2.415</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>06.12.2018</data>
+		<rata>3.043</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>06.12.2018</data>
+		<rata>3.1574</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>06.12.2018</data>
+		<rata>2.8289</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>06.12.2018</data>
+		<rata>4.1568</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AEGON ESENȚIAL</entitate>
+		<data>06.12.2018</data>
+		<rata>2.9642</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>06.12.2018</data>
+		<rata>3.0311</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>06.12.2018</data>
+		<rata>4.0967</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.11.2018</data>
+		<rata>2.4775</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.11.2018</data>
+		<rata>2.307</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.11.2018</data>
+		<rata>3.2448</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.11.2018</data>
+		<rata>2.2991</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>05.11.2018</data>
+		<rata>1.8876</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.11.2018</data>
+		<rata>3.3398</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AEGON ESENȚIAL</entitate>
+		<data>05.11.2018</data>
+		<rata>2.0298</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>05.11.2018</data>
+		<rata>1.6868</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.10.2018</data>
+		<rata>1.7522</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.10.2018</data>
+		<rata>3.5167</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.10.2018</data>
+		<rata>2.4386</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.10.2018</data>
+		<rata>1.689</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.10.2018</data>
+		<rata>2.7285</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.10.2018</data>
+		<rata>3.1364</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AEGON ESENȚIAL</entitate>
+		<data>03.10.2018</data>
+		<rata>2.1314</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.10.2018</data>
+		<rata>2.5388</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>04.09.2018</data>
+		<rata>2.6527</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>04.09.2018</data>
+		<rata>2.2812</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AEGON ESENȚIAL</entitate>
+		<data>04.09.2018</data>
+		<rata>1.9265</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>04.09.2018</data>
+		<rata>3.055</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>04.09.2018</data>
+		<rata>1.4386</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>04.09.2018</data>
+		<rata>1.5451</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>04.09.2018</data>
+		<rata>2.3715</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>04.09.2018</data>
+		<rata>3.3035</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.08.2018</data>
+		<rata>2.6372</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.08.2018</data>
+		<rata>2.9032</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.08.2018</data>
+		<rata>3.192</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AEGON ESENȚIAL</entitate>
+		<data>03.08.2018</data>
+		<rata>2.0378</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.08.2018</data>
+		<rata>3.1858</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.08.2018</data>
+		<rata>2.2307</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.08.2018</data>
+		<rata>1.377</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.08.2018</data>
+		<rata>1.2378</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>04.07.2018</data>
+		<rata>1.9985</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>04.07.2018</data>
+		<rata>3.1685</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>04.07.2018</data>
+		<rata>3.875</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>04.07.2018</data>
+		<rata>3.9998</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>04.07.2018</data>
+		<rata>2.9298</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>04.07.2018</data>
+		<rata>3.546</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>04.07.2018</data>
+		<rata>1.9006</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AEGON ESENȚIAL</entitate>
+		<data>04.07.2018</data>
+		<rata>2.569</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>07.06.2018</data>
+		<rata>4.0286</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>07.06.2018</data>
+		<rata>4.1191</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>07.06.2018</data>
+		<rata>2.1441</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>07.06.2018</data>
+		<rata>2.2344</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AEGON ESENȚIAL</entitate>
+		<data>07.06.2018</data>
+		<rata>2.8828</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>07.06.2018</data>
+		<rata>4.2598</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>07.06.2018</data>
+		<rata>3.1776</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>07.06.2018</data>
+		<rata>3.5268</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.05.2018</data>
+		<rata>4.1008</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.05.2018</data>
+		<rata>4.5799</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.05.2018</data>
+		<rata>3.2176</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.05.2018</data>
+		<rata>5.1467</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.05.2018</data>
+		<rata>5.3395</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.05.2018</data>
+		<rata>5.3606</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AEGON ESENȚIAL</entitate>
+		<data>03.05.2018</data>
+		<rata>4.1936</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.05.2018</data>
+		<rata>3.6729</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>05.04.2018</data>
+		<rata>2.93</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>05.04.2018</data>
+		<rata>3.7163</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AEGON ESENȚIAL</entitate>
+		<data>05.04.2018</data>
+		<rata>3.7158</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.04.2018</data>
+		<rata>5.0835</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.04.2018</data>
+		<rata>4.1656</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.04.2018</data>
+		<rata>3.7404</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.04.2018</data>
+		<rata>5.033</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.04.2018</data>
+		<rata>4.719</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AEGON ESENȚIAL</entitate>
+		<data>02.03.2018</data>
+		<rata>3.8752</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>02.03.2018</data>
+		<rata>2.8912</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>02.03.2018</data>
+		<rata>3.5855</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>02.03.2018</data>
+		<rata>4.3316</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>02.03.2018</data>
+		<rata>5.1749</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>02.03.2018</data>
+		<rata>4.8197</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>02.03.2018</data>
+		<rata>5.0112</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>02.03.2018</data>
+		<rata>3.7104</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>05.02.2018</data>
+		<rata>3.1269</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AEGON ESENȚIAL</entitate>
+		<data>05.02.2018</data>
+		<rata>4.1736</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>05.02.2018</data>
+		<rata>4.2543</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.02.2018</data>
+		<rata>4.5955</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.02.2018</data>
+		<rata>5.6434</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.02.2018</data>
+		<rata>3.637</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.02.2018</data>
+		<rata>5.176</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.02.2018</data>
+		<rata>5.2749</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.01.2018</data>
+		<rata>3.9086</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>05.01.2018</data>
+		<rata>1.8402</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AEGON ESENȚIAL</entitate>
+		<data>05.01.2018</data>
+		<rata>2.4046</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.01.2018</data>
+		<rata>3.481</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.01.2018</data>
+		<rata>3.3399</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.01.2018</data>
+		<rata>3.137</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.01.2018</data>
+		<rata>1.8817</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>05.01.2018</data>
+		<rata>2.6214</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>06.12.2017</data>
+		<rata>1.5593</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>06.12.2017</data>
+		<rata>3.6995</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>06.12.2017</data>
+		<rata>1.5932</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>06.12.2017</data>
+		<rata>3.3442</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>06.12.2017</data>
+		<rata>2.5277</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AEGON ESENȚIAL</entitate>
+		<data>06.12.2017</data>
+		<rata>2.3061</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>06.12.2017</data>
+		<rata>3.1822</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>06.12.2017</data>
+		<rata>2.8468</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AEGON ESENȚIAL</entitate>
+		<data>03.11.2017</data>
+		<rata>2.6348</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.11.2017</data>
+		<rata>3.5974</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.11.2017</data>
+		<rata>2.9348</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.11.2017</data>
+		<rata>3.0651</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.11.2017</data>
+		<rata>3.3798</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.11.2017</data>
+		<rata>3.8623</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.11.2017</data>
+		<rata>2.0159</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.11.2017</data>
+		<rata>1.8319</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>04.10.2017</data>
+		<rata>4.6915</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>04.10.2017</data>
+		<rata>2.5786</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>04.10.2017</data>
+		<rata>4.3291</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>04.10.2017</data>
+		<rata>2.743</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>04.10.2017</data>
+		<rata>4.6613</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AEGON ESENȚIAL</entitate>
+		<data>04.10.2017</data>
+		<rata>3.3367</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>04.10.2017</data>
+		<rata>3.9745</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>04.10.2017</data>
+		<rata>3.643</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>04.09.2017</data>
+		<rata>3.0505</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AEGON ESENȚIAL</entitate>
+		<data>04.09.2017</data>
+		<rata>4.1243</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>04.09.2017</data>
+		<rata>4.4678</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>04.09.2017</data>
+		<rata>4.1797</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>04.09.2017</data>
+		<rata>4.9389</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>04.09.2017</data>
+		<rata>5.1213</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>04.09.2017</data>
+		<rata>3.1194</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>04.09.2017</data>
+		<rata>5.119</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>04.08.2017</data>
+		<rata>3.8553</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>04.08.2017</data>
+		<rata>4.4124</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AEGON ESENȚIAL</entitate>
+		<data>04.08.2017</data>
+		<rata>3.3242</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>04.08.2017</data>
+		<rata>3.6239</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>04.08.2017</data>
+		<rata>4.4111</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>04.08.2017</data>
+		<rata>4.1247</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>04.08.2017</data>
+		<rata>2.6978</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>04.08.2017</data>
+		<rata>2.6483</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>04.07.2017</data>
+		<rata>4.1147</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>04.07.2017</data>
+		<rata>2.8631</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>04.07.2017</data>
+		<rata>4.3601</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>04.07.2017</data>
+		<rata>4.3266</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>04.07.2017</data>
+		<rata>3.8632</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AEGON ESENȚIAL</entitate>
+		<data>04.07.2017</data>
+		<rata>3.3547</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>04.07.2017</data>
+		<rata>4.5331</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>04.07.2017</data>
+		<rata>2.7828</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>07.06.2017</data>
+		<rata>4.6293</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>07.06.2017</data>
+		<rata>2.9621</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>07.06.2017</data>
+		<rata>3.0968</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>07.06.2017</data>
+		<rata>4.8737</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>07.06.2017</data>
+		<rata>4.2981</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>07.06.2017</data>
+		<rata>4.1615</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>07.06.2017</data>
+		<rata>4.9386</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AEGON ESENȚIAL</entitate>
+		<data>07.06.2017</data>
+		<rata>3.3015</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>04.05.2017</data>
+		<rata>2.7156</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>04.05.2017</data>
+		<rata>3.6207</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>04.05.2017</data>
+		<rata>3.1796</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>04.05.2017</data>
+		<rata>3.5476</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>04.05.2017</data>
+		<rata>1.691</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>04.05.2017</data>
+		<rata>1.7096</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>04.05.2017</data>
+		<rata>2.9151</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>05.04.2017</data>
+		<rata>3.0931</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.04.2017</data>
+		<rata>2.4213</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.04.2017</data>
+		<rata>3.3972</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.04.2017</data>
+		<rata>4.0602</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.04.2017</data>
+		<rata>3.4748</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.04.2017</data>
+		<rata>4.0635</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>05.04.2017</data>
+		<rata>1.7795</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.03.2017</data>
+		<rata>3.5057</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.03.2017</data>
+		<rata>1.9723</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.03.2017</data>
+		<rata>2.5208</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.03.2017</data>
+		<rata>3.5124</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.03.2017</data>
+		<rata>2.6398</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.03.2017</data>
+		<rata>1.5908</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.03.2017</data>
+		<rata>0.8155</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.02.2017</data>
+		<rata>2.1637</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.02.2017</data>
+		<rata>0.4659</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.02.2017</data>
+		<rata>1.122</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.02.2017</data>
+		<rata>2.9508</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.02.2017</data>
+		<rata>1.2236</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.02.2017</data>
+		<rata>3.1276</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.02.2017</data>
+		<rata>2.2956</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.01.2017</data>
+		<rata>2.8326</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.01.2017</data>
+		<rata>2.8007</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.01.2017</data>
+		<rata>2.9928</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.01.2017</data>
+		<rata>1.6262</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>05.01.2017</data>
+		<rata>1.5014</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.01.2017</data>
+		<rata>3.1265</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>05.01.2017</data>
+		<rata>2.2146</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>06.12.2016</data>
+		<rata>2.4675</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>06.12.2016</data>
+		<rata>1.3663</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>06.12.2016</data>
+		<rata>2.3832</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>06.12.2016</data>
+		<rata>2.8491</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>06.12.2016</data>
+		<rata>2.0741</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>06.12.2016</data>
+		<rata>2.6514</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>06.12.2016</data>
+		<rata>1.3606</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.11.2016</data>
+		<rata>2.6703</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.11.2016</data>
+		<rata>3.4725</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.11.2016</data>
+		<rata>3.0547</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.11.2016</data>
+		<rata>1.6728</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.11.2016</data>
+		<rata>3.7478</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.11.2016</data>
+		<rata>2.0679</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.11.2016</data>
+		<rata>3.3286</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>05.10.2016</data>
+		<rata>3.0908</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.10.2016</data>
+		<rata>4.1355</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.10.2016</data>
+		<rata>4.1263</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>05.10.2016</data>
+		<rata>3.8818</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.10.2016</data>
+		<rata>4.0879</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.10.2016</data>
+		<rata>3.5361</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.10.2016</data>
+		<rata>2.3722</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.09.2016</data>
+		<rata>4.3359</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.09.2016</data>
+		<rata>3.4204</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.09.2016</data>
+		<rata>3.9597</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>05.09.2016</data>
+		<rata>3.2982</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.09.2016</data>
+		<rata>4.1831</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>05.09.2016</data>
+		<rata>3.8612</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.09.2016</data>
+		<rata>2.3278</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>12.08.2016</data>
+		<rata>3.4857</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>12.08.2016</data>
+		<rata>3.5152</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>12.08.2016</data>
+		<rata>3.0365</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>12.08.2016</data>
+		<rata>2.8845</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>12.08.2016</data>
+		<rata>1.8349</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>12.08.2016</data>
+		<rata>3.2193</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>12.08.2016</data>
+		<rata>3.8501</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.07.2016</data>
+		<rata>2.8782</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.07.2016</data>
+		<rata>2.3113</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.07.2016</data>
+		<rata>1.5572</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>05.07.2016</data>
+		<rata>3.0388</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.07.2016</data>
+		<rata>2.8962</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.07.2016</data>
+		<rata>3.4519</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>05.07.2016</data>
+		<rata>2.7635</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.06.2016</data>
+		<rata>2.4085</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.06.2016</data>
+		<rata>3.2923</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.06.2016</data>
+		<rata>3.0789</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.06.2016</data>
+		<rata>1.7788</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.06.2016</data>
+		<rata>3.5891</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.06.2016</data>
+		<rata>3.4505</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.06.2016</data>
+		<rata>3.4189</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.05.2016</data>
+		<rata>4.0265</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>05.05.2016</data>
+		<rata>4.7594</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>05.05.2016</data>
+		<rata>4.583</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.05.2016</data>
+		<rata>5.0684</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.05.2016</data>
+		<rata>3.1621</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.05.2016</data>
+		<rata>3.136</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.05.2016</data>
+		<rata>4.6712</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>05.04.2016</data>
+		<rata>5.5442</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.04.2016</data>
+		<rata>4.6808</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.04.2016</data>
+		<rata>3.7053</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.04.2016</data>
+		<rata>3.8787</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.04.2016</data>
+		<rata>5.5274</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.04.2016</data>
+		<rata>5.7686</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>05.04.2016</data>
+		<rata>5.5645</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.03.2016</data>
+		<rata>5.659</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.03.2016</data>
+		<rata>4.3456</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.03.2016</data>
+		<rata>3.8848</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.03.2016</data>
+		<rata>3.4872</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.03.2016</data>
+		<rata>5.3396</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.03.2016</data>
+		<rata>5.5599</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.03.2016</data>
+		<rata>5.4177</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>04.02.2016</data>
+		<rata>4.4653</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>04.02.2016</data>
+		<rata>4.5854</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>04.02.2016</data>
+		<rata>3.0428</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>04.02.2016</data>
+		<rata>3.4864</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>04.02.2016</data>
+		<rata>3.8968</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>04.02.2016</data>
+		<rata>4.6565</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>04.02.2016</data>
+		<rata>2.5934</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>06.01.2016</data>
+		<rata>5.2525</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>06.01.2016</data>
+		<rata>3.8587</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>06.01.2016</data>
+		<rata>5.465</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>06.01.2016</data>
+		<rata>4.3942</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>06.01.2016</data>
+		<rata>6.3353</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>06.01.2016</data>
+		<rata>4.7954</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>06.01.2016</data>
+		<rata>5.9148</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>22.12.2015</data>
+		<rata>6.8493</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>22.12.2015</data>
+		<rata>4.4182</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>22.12.2015</data>
+		<rata>7.2322</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>22.12.2015</data>
+		<rata>5.4059</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>22.12.2015</data>
+		<rata>7.2105</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>22.12.2015</data>
+		<rata>5.5287</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>22.12.2015</data>
+		<rata>6.3763</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>22.12.2015</data>
+		<rata>6.165</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>04.11.2015</data>
+		<rata>6.6185</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>04.11.2015</data>
+		<rata>6.7966</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>04.11.2015</data>
+		<rata>5.7225</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>04.11.2015</data>
+		<rata>7.3937</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>04.11.2015</data>
+		<rata>5.9556</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>04.11.2015</data>
+		<rata>4.8078</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>04.11.2015</data>
+		<rata>7.4376</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>04.11.2015</data>
+		<rata>7.2606</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>05.10.2015</data>
+		<rata>7.368</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>05.10.2015</data>
+		<rata>6.7772</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.10.2015</data>
+		<rata>5.8252</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.10.2015</data>
+		<rata>7.1651</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.10.2015</data>
+		<rata>4.6054</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.10.2015</data>
+		<rata>5.8883</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>05.10.2015</data>
+		<rata>6.6973</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.10.2015</data>
+		<rata>7.443</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.09.2015</data>
+		<rata>7.2587</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.09.2015</data>
+		<rata>5.0656</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.09.2015</data>
+		<rata>7.932</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.09.2015</data>
+		<rata>6.5251</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.09.2015</data>
+		<rata>7.247</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.09.2015</data>
+		<rata>6.3943</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>03.09.2015</data>
+		<rata>7.6348</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.09.2015</data>
+		<rata>7.7871</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.08.2015</data>
+		<rata>7.8395</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.08.2015</data>
+		<rata>8.3573</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.08.2015</data>
+		<rata>9.0245</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>03.08.2015</data>
+		<rata>9.1938</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.08.2015</data>
+		<rata>8.3826</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.08.2015</data>
+		<rata>9.2908</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.08.2015</data>
+		<rata>6.281</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.08.2015</data>
+		<rata>7.5384</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.07.2015</data>
+		<rata>7.9032</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.07.2015</data>
+		<rata>7.9805</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.07.2015</data>
+		<rata>6.2275</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.07.2015</data>
+		<rata>8.4083</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.07.2015</data>
+		<rata>9.3339</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.07.2015</data>
+		<rata>6.518</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.07.2015</data>
+		<rata>9.4647</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>03.07.2015</data>
+		<rata>10.1869</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>04.06.2015</data>
+		<rata>6.8261</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>04.06.2015</data>
+		<rata>8.5945</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>04.06.2015</data>
+		<rata>6.7253</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>04.06.2015</data>
+		<rata>10.1425</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>04.06.2015</data>
+		<rata>9.6027</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>04.06.2015</data>
+		<rata>8.5842</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>04.06.2015</data>
+		<rata>9.295</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>04.06.2015</data>
+		<rata>10.528</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>06.05.2015</data>
+		<rata>10.8955</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>06.05.2015</data>
+		<rata>10.395</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>06.05.2015</data>
+		<rata>9.6352</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>06.05.2015</data>
+		<rata>7.5286</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>06.05.2015</data>
+		<rata>7.9612</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>06.05.2015</data>
+		<rata>11.6718</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>06.05.2015</data>
+		<rata>11.5167</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>06.05.2015</data>
+		<rata>9.9699</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.04.2015</data>
+		<rata>10.7275</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.04.2015</data>
+		<rata>9.6733</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.04.2015</data>
+		<rata>6.9691</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.04.2015</data>
+		<rata>9.5217</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.04.2015</data>
+		<rata>8.9467</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.04.2015</data>
+		<rata>7.0541</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>03.04.2015</data>
+		<rata>10.826</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.04.2015</data>
+		<rata>10.7806</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.03.2015</data>
+		<rata>11.3073</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.03.2015</data>
+		<rata>7.5567</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>03.03.2015</data>
+		<rata>11.7073</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.03.2015</data>
+		<rata>10.889</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.03.2015</data>
+		<rata>8.2996</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.03.2015</data>
+		<rata>11.7931</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.03.2015</data>
+		<rata>9.7354</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.03.2015</data>
+		<rata>10.6005</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.02.2015</data>
+		<rata>8.3479</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>05.02.2015</data>
+		<rata>11.5659</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>05.02.2015</data>
+		<rata>10.8262</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.02.2015</data>
+		<rata>9.5302</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.02.2015</data>
+		<rata>11.3924</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>05.02.2015</data>
+		<rata>11.6213</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.02.2015</data>
+		<rata>7.3963</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.02.2015</data>
+		<rata>10.1166</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>07.01.2015</data>
+		<rata>9.4572</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>07.01.2015</data>
+		<rata>8.4411</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>07.01.2015</data>
+		<rata>10.255</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>07.01.2015</data>
+		<rata>10.6491</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>07.01.2015</data>
+		<rata>9.6672</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>07.01.2015</data>
+		<rata>8.1512</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>07.01.2015</data>
+		<rata>11.6905</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>07.01.2015</data>
+		<rata>11.336</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>04.12.2014</data>
+		<rata>9.009</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>04.12.2014</data>
+		<rata>10.8706</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>04.12.2014</data>
+		<rata>12.457</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>04.12.2014</data>
+		<rata>8.7658</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>04.12.2014</data>
+		<rata>9.8365</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>04.12.2014</data>
+		<rata>10.8307</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>04.12.2014</data>
+		<rata>11.6048</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>04.12.2014</data>
+		<rata>9.9506</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.11.2014</data>
+		<rata>8.65</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.11.2014</data>
+		<rata>9.4481</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.11.2014</data>
+		<rata>10.5164</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.11.2014</data>
+		<rata>8.8962</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.11.2014</data>
+		<rata>10.6262</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.11.2014</data>
+		<rata>12.5763</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>03.11.2014</data>
+		<rata>11.472</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.11.2014</data>
+		<rata>9.2077</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.10.2014</data>
+		<rata>9.3622</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.10.2014</data>
+		<rata>9.0058</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>03.10.2014</data>
+		<rata>11.2709</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.10.2014</data>
+		<rata>8.6755</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.10.2014</data>
+		<rata>10.2372</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.10.2014</data>
+		<rata>10.0523</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.10.2014</data>
+		<rata>9.7714</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.10.2014</data>
+		<rata>12.6756</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.09.2014</data>
+		<rata>12.8424</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.09.2014</data>
+		<rata>9.8967</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.09.2014</data>
+		<rata>10.4411</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.09.2014</data>
+		<rata>9.0615</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.09.2014</data>
+		<rata>9.1998</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.09.2014</data>
+		<rata>9.3269</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>03.09.2014</data>
+		<rata>11.2655</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.09.2014</data>
+		<rata>10.1496</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.08.2014</data>
+		<rata>9.6735</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>05.08.2014</data>
+		<rata>10.1778</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.08.2014</data>
+		<rata>9.7594</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.08.2014</data>
+		<rata>9.7615</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>05.08.2014</data>
+		<rata>11.6828</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>05.08.2014</data>
+		<rata>11.2983</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.08.2014</data>
+		<rata>10.2555</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.08.2014</data>
+		<rata>12.8048</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>02.07.2014</data>
+		<rata>11.41</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>02.07.2014</data>
+		<rata>10.168</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>02.07.2014</data>
+		<rata>11.61</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>02.07.2014</data>
+		<rata>10.1316</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>02.07.2014</data>
+		<rata>12.9886</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>02.07.2014</data>
+		<rata>10.3179</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>02.07.2014</data>
+		<rata>9.8468</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>02.07.2014</data>
+		<rata>9.6786</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>04.06.2014</data>
+		<rata>11.8896</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>04.06.2014</data>
+		<rata>9.2398</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>04.06.2014</data>
+		<rata>9.4792</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>04.06.2014</data>
+		<rata>8.7843</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>04.06.2014</data>
+		<rata>10.5358</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>04.06.2014</data>
+		<rata>10.3403</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>04.06.2014</data>
+		<rata>9.4698</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>04.06.2014</data>
+		<rata>9.2196</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>06.05.2014</data>
+		<rata>10.1907</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>06.05.2014</data>
+		<rata>8.307</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>06.05.2014</data>
+		<rata>8.0198</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>06.05.2014</data>
+		<rata>8.653</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>06.05.2014</data>
+		<rata>7.2729</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>06.05.2014</data>
+		<rata>8.7283</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>06.05.2014</data>
+		<rata>7.7178</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>06.05.2014</data>
+		<rata>8.2509</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.04.2014</data>
+		<rata>8.5229</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.04.2014</data>
+		<rata>8.4834</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>03.04.2014</data>
+		<rata>9.0677</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.04.2014</data>
+		<rata>8.426</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.04.2014</data>
+		<rata>8.0275</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.04.2014</data>
+		<rata>6.9488</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.04.2014</data>
+		<rata>10.1758</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.04.2014</data>
+		<rata>7.911</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>05.03.2014</data>
+		<rata>9.0608</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.03.2014</data>
+		<rata>8.8082</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>05.03.2014</data>
+		<rata>6.7909</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.03.2014</data>
+		<rata>8.1995</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>05.03.2014</data>
+		<rata>9.4099</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.03.2014</data>
+		<rata>8.2033</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.03.2014</data>
+		<rata>11.1624</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.03.2014</data>
+		<rata>8.9075</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>05.02.2014</data>
+		<rata>7.5044</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>05.02.2014</data>
+		<rata>10.6702</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.02.2014</data>
+		<rata>9.0853</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.02.2014</data>
+		<rata>9.4019</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.02.2014</data>
+		<rata>9.2231</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>05.02.2014</data>
+		<rata>10.8819</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.02.2014</data>
+		<rata>9.9015</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.02.2014</data>
+		<rata>12.6183</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>07.01.2014</data>
+		<rata>9.9947</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>07.01.2014</data>
+		<rata>11.6289</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>07.01.2014</data>
+		<rata>10.5226</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>07.01.2014</data>
+		<rata>10.0719</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>07.01.2014</data>
+		<rata>11.4693</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>07.01.2014</data>
+		<rata>10.3292</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>07.01.2014</data>
+		<rata>8.6734</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>07.01.2014</data>
+		<rata>13.6271</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>04.12.2013</data>
+		<rata>9.854</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>04.12.2013</data>
+		<rata>10.7854</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>04.12.2013</data>
+		<rata>11.6893</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>04.12.2013</data>
+		<rata>10.0032</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>04.12.2013</data>
+		<rata>13.9073</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>04.12.2013</data>
+		<rata>11.6498</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>04.12.2013</data>
+		<rata>10.1085</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>04.12.2013</data>
+		<rata>8.6812</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>06.11.2013</data>
+		<rata>9.4729</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>06.11.2013</data>
+		<rata>9.9277</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>06.11.2013</data>
+		<rata>7.9073</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>06.11.2013</data>
+		<rata>9.4875</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>06.11.2013</data>
+		<rata>10.6909</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>06.11.2013</data>
+		<rata>9.1505</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>06.11.2013</data>
+		<rata>12.7684</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>06.11.2013</data>
+		<rata>11.0278</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.10.2013</data>
+		<rata>9.3817</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>03.10.2013</data>
+		<rata>11.0639</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.10.2013</data>
+		<rata>9.1026</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.10.2013</data>
+		<rata>9.3458</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.10.2013</data>
+		<rata>12.5327</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.10.2013</data>
+		<rata>11.0972</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.10.2013</data>
+		<rata>8.0682</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.10.2013</data>
+		<rata>10.2058</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>04.09.2013</data>
+		<rata>8.0467</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>04.09.2013</data>
+		<rata>10.1133</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>04.09.2013</data>
+		<rata>7.0704</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>04.09.2013</data>
+		<rata>8.5391</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>04.09.2013</data>
+		<rata>8.4693</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>04.09.2013</data>
+		<rata>10.1558</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>04.09.2013</data>
+		<rata>9.3735</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>04.09.2013</data>
+		<rata>11.8144</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.08.2013</data>
+		<rata>7.1808</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>05.08.2013</data>
+		<rata>8.3586</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.08.2013</data>
+		<rata>9.7435</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>05.08.2013</data>
+		<rata>8.6912</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.08.2013</data>
+		<rata>6.6621</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>05.08.2013</data>
+		<rata>5.5634</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.08.2013</data>
+		<rata>7.5429</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.08.2013</data>
+		<rata>8.1206</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.07.2013</data>
+		<rata>5.9273</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.07.2013</data>
+		<rata>8.2101</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.07.2013</data>
+		<rata>8.1571</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.07.2013</data>
+		<rata>7.317</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.07.2013</data>
+		<rata>3.9828</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>03.07.2013</data>
+		<rata>6.8131</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.07.2013</data>
+		<rata>7.6858</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.07.2013</data>
+		<rata>7.3549</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.06.2013</data>
+		<rata>6.0983</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>05.06.2013</data>
+		<rata>8.1347</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>05.06.2013</data>
+		<rata>7.0613</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.06.2013</data>
+		<rata>7.5022</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.06.2013</data>
+		<rata>8.2651</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.06.2013</data>
+		<rata>7.2945</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>05.06.2013</data>
+		<rata>3.8634</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.06.2013</data>
+		<rata>8.0079</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.05.2013</data>
+		<rata>6.3303</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.05.2013</data>
+		<rata>6.5081</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.05.2013</data>
+		<rata>6.2345</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.05.2013</data>
+		<rata>4.2655</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.05.2013</data>
+		<rata>6.3304</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.05.2013</data>
+		<rata>2.9145</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.05.2013</data>
+		<rata>6.4478</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>03.05.2013</data>
+		<rata>5.7679</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.04.2013</data>
+		<rata>3.0014</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.04.2013</data>
+		<rata>6.6928</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.04.2013</data>
+		<rata>6.7958</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.04.2013</data>
+		<rata>6.4101</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.04.2013</data>
+		<rata>6.5541</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>03.04.2013</data>
+		<rata>6.1513</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.04.2013</data>
+		<rata>4.5756</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.04.2013</data>
+		<rata>6.5668</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>07.03.2013</data>
+		<rata>3.3265</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>07.03.2013</data>
+		<rata>7.0318</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>07.03.2013</data>
+		<rata>6.5319</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>07.03.2013</data>
+		<rata>6.848</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>07.03.2013</data>
+		<rata>9.3006</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>07.03.2013</data>
+		<rata>6.8201</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>07.03.2013</data>
+		<rata>5.2385</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>07.03.2013</data>
+		<rata>7.3586</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>07.03.2013</data>
+		<rata>7.3686</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>04.09.2012</data>
+		<rata>6.0403</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>04.09.2012</data>
+		<rata>5.1901</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>04.09.2012</data>
+		<rata>3.8536</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>04.09.2012</data>
+		<rata>8.4724</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>04.09.2012</data>
+		<rata>5.6936</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>04.09.2012</data>
+		<rata>6.2674</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>04.09.2012</data>
+		<rata>5.901</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>04.09.2012</data>
+		<rata>4.9233</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>04.09.2012</data>
+		<rata>6.429</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.08.2012</data>
+		<rata>4.8273</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.08.2012</data>
+		<rata>4.9436</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.08.2012</data>
+		<rata>5.4762</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.08.2012</data>
+		<rata>5.9993</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.08.2012</data>
+		<rata>5.4488</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>03.08.2012</data>
+		<rata>8.4094</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>03.08.2012</data>
+		<rata>5.9935</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.08.2012</data>
+		<rata>3.7497</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.08.2012</data>
+		<rata>5.7125</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>06.06.2012</data>
+		<rata>4.8635</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>06.06.2012</data>
+		<rata>5.61</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>06.06.2012</data>
+		<rata>5.7912</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>06.06.2012</data>
+		<rata>5.0246</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>06.06.2012</data>
+		<rata>3.8129</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>06.06.2012</data>
+		<rata>5.3769</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>06.06.2012</data>
+		<rata>8.5408</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>06.06.2012</data>
+		<rata>4.94</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>06.06.2012</data>
+		<rata>5.7762</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>02.05.2012</data>
+		<rata>7.5799</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>02.05.2012</data>
+		<rata>4.2412</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>02.05.2012</data>
+		<rata>5.9792</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>02.05.2012</data>
+		<rata>5.8229</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>02.05.2012</data>
+		<rata>4.4762</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>02.05.2012</data>
+		<rata>3.6548</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>02.05.2012</data>
+		<rata>4.7111</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>02.05.2012</data>
+		<rata>4.9808</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>02.05.2012</data>
+		<rata>5.4818</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>02.04.2012</data>
+		<rata>5.5327</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>02.04.2012</data>
+		<rata>7.236</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>02.04.2012</data>
+		<rata>5.4073</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>02.04.2012</data>
+		<rata>5.4485</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>02.04.2012</data>
+		<rata>5.101</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>02.04.2012</data>
+		<rata>5.5215</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>02.04.2012</data>
+		<rata>3.0475</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>02.04.2012</data>
+		<rata>4.8213</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>02.04.2012</data>
+		<rata>5.0514</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.03.2012</data>
+		<rata>8.616</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.03.2012</data>
+		<rata>5.5952</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.03.2012</data>
+		<rata>6.411</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>05.03.2012</data>
+		<rata>7.6496</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>05.03.2012</data>
+		<rata>6.8727</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>05.03.2012</data>
+		<rata>4.9842</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.03.2012</data>
+		<rata>4.4503</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>05.03.2012</data>
+		<rata>9.0183</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.03.2012</data>
+		<rata>5.5038</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>01.02.2012</data>
+		<rata>8.9877</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>01.02.2012</data>
+		<rata>7.0868</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>01.02.2012</data>
+		<rata>5.9639</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>01.02.2012</data>
+		<rata>7.3581</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>01.02.2012</data>
+		<rata>6.5475</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>01.02.2012</data>
+		<rata>4.6717</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>01.02.2012</data>
+		<rata>6.1018</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>01.02.2012</data>
+		<rata>5.8347</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>01.02.2012</data>
+		<rata>8.382</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.01.2012</data>
+		<rata>4.3272</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.01.2012</data>
+		<rata>5.6123</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.01.2012</data>
+		<rata>5.3638</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>03.01.2012</data>
+		<rata>8.5503</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.01.2012</data>
+		<rata>8.1444</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.01.2012</data>
+		<rata>7.0574</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>03.01.2012</data>
+		<rata>7.0635</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.01.2012</data>
+		<rata>7.4464</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.01.2012</data>
+		<rata>6.3163</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>02.12.2011</data>
+		<rata>6.7289</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>02.12.2011</data>
+		<rata>6.9806</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>02.12.2011</data>
+		<rata>4.1741</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>02.12.2011</data>
+		<rata>8.3755</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>02.12.2011</data>
+		<rata>5.4376</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>02.12.2011</data>
+		<rata>5.3543</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>02.12.2011</data>
+		<rata>8.0952</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>02.12.2011</data>
+		<rata>6.8652</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>02.12.2011</data>
+		<rata>7.4934</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>04.11.2011</data>
+		<rata>5.5267</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>04.11.2011</data>
+		<rata>8.3706</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>04.11.2011</data>
+		<rata>7.8933</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>04.11.2011</data>
+		<rata>9.317</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>04.11.2011</data>
+		<rata>4.6634</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>04.11.2011</data>
+		<rata>5.8633</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>04.11.2011</data>
+		<rata>7.0981</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>04.11.2011</data>
+		<rata>7.4606</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>04.11.2011</data>
+		<rata>9.514</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.10.2011</data>
+		<rata>6.9877</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>03.10.2011</data>
+		<rata>6.618</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>03.10.2011</data>
+		<rata>8.9127</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.10.2011</data>
+		<rata>7.4825</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.10.2011</data>
+		<rata>4.2883</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.10.2011</data>
+		<rata>7.7763</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.10.2011</data>
+		<rata>8.431</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.10.2011</data>
+		<rata>5.3051</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>05.09.2011</data>
+		<rata>6.8036</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>05.09.2011</data>
+		<rata>5.9123</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>05.09.2011</data>
+		<rata>5.0689</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.09.2011</data>
+		<rata>8.5164</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.09.2011</data>
+		<rata>9.1101</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.09.2011</data>
+		<rata>9.5305</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.09.2011</data>
+		<rata>8.8834</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>05.09.2011</data>
+		<rata>9.8108</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>01.08.2011</data>
+		<rata>6.3085</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>01.08.2011</data>
+		<rata>11.1297</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>01.08.2011</data>
+		<rata>10.8997</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>01.08.2011</data>
+		<rata>6.8424</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>01.08.2011</data>
+		<rata>10.9399</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>01.08.2011</data>
+		<rata>12.275</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>01.08.2011</data>
+		<rata>9.7036</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>01.08.2011</data>
+		<rata>8.4427</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>01.07.2011</data>
+		<rata>11.754</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>01.07.2011</data>
+		<rata>12.9235</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>01.07.2011</data>
+		<rata>10.1175</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>01.07.2011</data>
+		<rata>9.2022</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>01.07.2011</data>
+		<rata>12.8029</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>01.07.2011</data>
+		<rata>7.3574</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>01.07.2011</data>
+		<rata>11.4338</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>02.06.2011</data>
+		<rata>13.3944</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>02.06.2011</data>
+		<rata>10.1233</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>02.06.2011</data>
+		<rata>7.8405</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>02.06.2011</data>
+		<rata>10.0953</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>02.06.2011</data>
+		<rata>13.2381</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>02.06.2011</data>
+		<rata>12.4591</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>02.06.2011</data>
+		<rata>13.0974</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>04.05.2011</data>
+		<rata>10.385</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>04.05.2011</data>
+		<rata>13.6391</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>04.05.2011</data>
+		<rata>14.2684</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>04.05.2011</data>
+		<rata>10.8855</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>04.05.2011</data>
+		<rata>13.2339</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>04.05.2011</data>
+		<rata>14.3705</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>04.05.2011</data>
+		<rata>9.2118</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>01.04.2011</data>
+		<rata>11.4152</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>01.04.2011</data>
+		<rata>15.8391</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>01.04.2011</data>
+		<rata>14.4806</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>01.04.2011</data>
+		<rata>14.8342</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>01.04.2011</data>
+		<rata>16.3457</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>01.04.2011</data>
+		<rata>11.6628</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>01.03.2011</data>
+		<rata>4.9806</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>01.03.2011</data>
+		<rata>16.285</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>01.03.2011</data>
+		<rata>16.4595</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>01.03.2011</data>
+		<rata>11.1068</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>01.03.2011</data>
+		<rata>14.8726</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>01.03.2011</data>
+		<rata>15.1477</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>01.02.2011</data>
+		<rata>15.2175</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>01.02.2011</data>
+		<rata>15.6757</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>01.02.2011</data>
+		<rata>15.291</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>01.02.2011</data>
+		<rata>15.9181</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>01.02.2011</data>
+		<rata>11.1843</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>05.01.2011</data>
+		<rata>14.1512</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.01.2011</data>
+		<rata>10.7647</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.01.2011</data>
+		<rata>16.5638</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.01.2011</data>
+		<rata>14.8363</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.01.2011</data>
+		<rata>15.2257</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.12.2010</data>
+		<rata>16.7455</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.12.2010</data>
+		<rata>13.8065</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>03.12.2010</data>
+		<rata>13.4295</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.12.2010</data>
+		<rata>10.5752</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.12.2010</data>
+		<rata>15.2614</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>02.11.2010</data>
+		<rata>16.2748</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>02.11.2010</data>
+		<rata>11.5942</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>02.11.2010</data>
+		<rata>16.5194</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>02.11.2010</data>
+		<rata>15.7538</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>02.11.2010</data>
+		<rata>20.2084</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.10.2010</data>
+		<rata>14.1574</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.10.2010</data>
+		<rata>10.4374</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.10.2010</data>
+		<rata>17.0101</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>05.10.2010</data>
+		<rata>14.0389</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.10.2010</data>
+		<rata>14.2783</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.09.2010</data>
+		<rata>13.1965</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.09.2010</data>
+		<rata>10.2943</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.09.2010</data>
+		<rata>13.4627</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.09.2010</data>
+		<rata>15.8134</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>04.08.2010</data>
+		<rata>12.2821</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>04.08.2010</data>
+		<rata>10.1475</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>04.08.2010</data>
+		<rata>13.8047</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>04.08.2010</data>
+		<rata>13.6232</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>04.08.2010</data>
+		<rata>15.7015</rata>
+		<ric>mediu</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>06.12.2018</data>
+		<rata>4.9113</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>06.12.2018</data>
+		<rata>5.1532</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.11.2018</data>
+		<rata>4.4778</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.11.2018</data>
+		<rata>4.0318</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.10.2018</data>
+		<rata>4.6416</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.10.2018</data>
+		<rata>4.3038</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>04.09.2018</data>
+		<rata>4.4303</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>04.09.2018</data>
+		<rata>4.0303</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.08.2018</data>
+		<rata>4.3501</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.08.2018</data>
+		<rata>4.4818</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>04.07.2018</data>
+		<rata>5.4945</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>04.07.2018</data>
+		<rata>5.3148</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>07.06.2018</data>
+		<rata>5.6408</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>07.06.2018</data>
+		<rata>5.568</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.05.2018</data>
+		<rata>7.2641</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.05.2018</data>
+		<rata>6.9549</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.04.2018</data>
+		<rata>6.4534</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.04.2018</data>
+		<rata>6.8122</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>02.03.2018</data>
+		<rata>6.7121</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>02.03.2018</data>
+		<rata>7.1343</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.02.2018</data>
+		<rata>7.965</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.02.2018</data>
+		<rata>7.1553</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.01.2018</data>
+		<rata>4.6629</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.01.2018</data>
+		<rata>5.3313</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>06.12.2017</data>
+		<rata>4.3808</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>06.12.2017</data>
+		<rata>5.0636</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.11.2017</data>
+		<rata>5.0853</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.11.2017</data>
+		<rata>4.4904</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>04.10.2017</data>
+		<rata>5.4013</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>04.10.2017</data>
+		<rata>5.8203</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>04.09.2017</data>
+		<rata>5.8157</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>04.09.2017</data>
+		<rata>6.1274</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>04.08.2017</data>
+		<rata>4.8631</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>04.08.2017</data>
+		<rata>5.0532</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>04.07.2017</data>
+		<rata>4.9435</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>04.07.2017</data>
+		<rata>4.9549</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>07.06.2017</data>
+		<rata>5.9</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>07.06.2017</data>
+		<rata>5.5963</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>04.05.2017</data>
+		<rata>4.2946</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>04.05.2017</data>
+		<rata>3.9692</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.04.2017</data>
+		<rata>4.6862</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.04.2017</data>
+		<rata>4.9521</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.03.2017</data>
+		<rata>4.2545</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.03.2017</data>
+		<rata>3.8216</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.02.2017</data>
+		<rata>3.6027</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.02.2017</data>
+		<rata>3.1628</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.01.2017</data>
+		<rata>3.0763</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.01.2017</data>
+		<rata>3.4419</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>06.12.2016</data>
+		<rata>2.7972</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>06.12.2016</data>
+		<rata>2.6269</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.11.2016</data>
+		<rata>3.094</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.11.2016</data>
+		<rata>3.6974</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.10.2016</data>
+		<rata>3.5393</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.10.2016</data>
+		<rata>4.3875</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.09.2016</data>
+		<rata>3.4509</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.09.2016</data>
+		<rata>4.462</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>12.08.2016</data>
+		<rata>3.6853</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>12.08.2016</data>
+		<rata>3.1258</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.07.2016</data>
+		<rata>2.758</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.07.2016</data>
+		<rata>2.1423</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.06.2016</data>
+		<rata>2.7587</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.06.2016</data>
+		<rata>2.0648</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.05.2016</data>
+		<rata>3.3486</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.05.2016</data>
+		<rata>4.1147</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.04.2016</data>
+		<rata>4.0479</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.04.2016</data>
+		<rata>4.8227</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.03.2016</data>
+		<rata>4.2488</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.03.2016</data>
+		<rata>3.6107</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>04.02.2016</data>
+		<rata>3.2513</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>04.02.2016</data>
+		<rata>2.3678</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>06.01.2016</data>
+		<rata>5.185</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>06.01.2016</data>
+		<rata>4.1597</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>22.12.2015</data>
+		<rata>6.0239</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>22.12.2015</data>
+		<rata>5.0784</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>04.11.2015</data>
+		<rata>5.8357</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>04.11.2015</data>
+		<rata>6.5758</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.10.2015</data>
+		<rata>5.455</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.10.2015</data>
+		<rata>6.5301</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.09.2015</data>
+		<rata>7.4262</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.09.2015</data>
+		<rata>6.1673</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.08.2015</data>
+		<rata>9.5624</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.08.2015</data>
+		<rata>7.9844</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.07.2015</data>
+		<rata>7.6421</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.07.2015</data>
+		<rata>9.277</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>04.06.2015</data>
+		<rata>7.6112</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>04.06.2015</data>
+		<rata>9.2743</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>06.05.2015</data>
+		<rata>10.5443</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>06.05.2015</data>
+		<rata>9.0304</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.04.2015</data>
+		<rata>9.3531</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.04.2015</data>
+		<rata>7.9348</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.03.2015</data>
+		<rata>9.8776</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.03.2015</data>
+		<rata>8.511</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.02.2015</data>
+		<rata>9.1879</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.02.2015</data>
+		<rata>8.1241</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>07.01.2015</data>
+		<rata>9.1919</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>07.01.2015</data>
+		<rata>9.146</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>04.12.2014</data>
+		<rata>10.0085</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>04.12.2014</data>
+		<rata>10.4413</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.11.2014</data>
+		<rata>10.2779</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.11.2014</data>
+		<rata>9.5259</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.10.2014</data>
+		<rata>9.6842</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.10.2014</data>
+		<rata>10.5402</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.09.2014</data>
+		<rata>10.8023</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.09.2014</data>
+		<rata>9.7436</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.08.2014</data>
+		<rata>10.3702</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.08.2014</data>
+		<rata>11.4233</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>02.07.2014</data>
+		<rata>12.0929</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>02.07.2014</data>
+		<rata>11.3008</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>04.06.2014</data>
+		<rata>11.0973</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>04.06.2014</data>
+		<rata>10.4541</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>06.05.2014</data>
+		<rata>8.7435</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>06.05.2014</data>
+		<rata>8.0456</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.04.2014</data>
+		<rata>7.9582</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.04.2014</data>
+		<rata>9.0322</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.03.2014</data>
+		<rata>8.2256</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.03.2014</data>
+		<rata>9.3394</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.02.2014</data>
+		<rata>11.1387</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.02.2014</data>
+		<rata>9.4052</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>07.01.2014</data>
+		<rata>11.2059</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>07.01.2014</data>
+		<rata>12.5367</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>04.12.2013</data>
+		<rata>11.224</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>04.12.2013</data>
+		<rata>12.7627</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>06.11.2013</data>
+		<rata>10.8734</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>06.11.2013</data>
+		<rata>9.4564</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.10.2013</data>
+		<rata>11.5764</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.10.2013</data>
+		<rata>9.8885</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>04.09.2013</data>
+		<rata>9.9709</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>04.09.2013</data>
+		<rata>8.0091</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.08.2013</data>
+		<rata>5.2302</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.08.2013</data>
+		<rata>7.6505</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.07.2013</data>
+		<rata>7.1261</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.07.2013</data>
+		<rata>4.3552</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.06.2013</data>
+		<rata>7.4507</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.06.2013</data>
+		<rata>4.7516</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.05.2013</data>
+		<rata>4.9457</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.05.2013</data>
+		<rata>2.4227</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.04.2013</data>
+		<rata>3.21</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.04.2013</data>
+		<rata>5.4808</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>07.03.2013</data>
+		<rata>4.2206</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>07.03.2013</data>
+		<rata>6.6827</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>04.09.2012</data>
+		<rata>5.4853</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>04.09.2012</data>
+		<rata>4.4273</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.08.2012</data>
+		<rata>4.0884</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.08.2012</data>
+		<rata>4.7701</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>06.06.2012</data>
+		<rata>4.0594</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>06.06.2012</data>
+		<rata>4.9227</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>02.05.2012</data>
+		<rata>3.1932</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>02.05.2012</data>
+		<rata>2.975</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>02.04.2012</data>
+		<rata>2.769</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>02.04.2012</data>
+		<rata>2.9294</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.03.2012</data>
+		<rata>6.3679</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.03.2012</data>
+		<rata>4.2967</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>01.02.2012</data>
+		<rata>5.6023</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>01.02.2012</data>
+		<rata>4.9375</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.01.2012</data>
+		<rata>5.3708</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.01.2012</data>
+		<rata>4.5574</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>02.12.2011</data>
+		<rata>4.9758</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>02.12.2011</data>
+		<rata>5.08</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>04.11.2011</data>
+		<rata>7.0465</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>04.11.2011</data>
+		<rata>7.4171</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.10.2011</data>
+		<rata>5.569</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.10.2011</data>
+		<rata>5.9999</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.09.2011</data>
+		<rata>8.3143</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.09.2011</data>
+		<rata>7.3259</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>01.08.2011</data>
+		<rata>11.5625</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>01.08.2011</data>
+		<rata>11.1887</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>01.07.2011</data>
+		<rata>12.3732</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>01.07.2011</data>
+		<rata>12.7242</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>02.06.2011</data>
+		<rata>13.1256</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>02.06.2011</data>
+		<rata>13.2295</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>04.05.2011</data>
+		<rata>14.9991</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>04.05.2011</data>
+		<rata>14.3756</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>01.04.2011</data>
+		<rata>15.5368</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>01.04.2011</data>
+		<rata>18.1141</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>01.03.2011</data>
+		<rata>15.8097</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>01.03.2011</data>
+		<rata>17.9147</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>01.02.2011</data>
+		<rata>16.1703</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>01.02.2011</data>
+		<rata>16.5786</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.01.2011</data>
+		<rata>15.413</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.01.2011</data>
+		<rata>14.8046</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.12.2010</data>
+		<rata>13.8827</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.12.2010</data>
+		<rata>14.6153</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>02.11.2010</data>
+		<rata>15.8507</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>02.11.2010</data>
+		<rata>16.832</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.10.2010</data>
+		<rata>13.3889</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.10.2010</data>
+		<rata>12.5901</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.09.2010</data>
+		<rata>11.1971</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.09.2010</data>
+		<rata>12.2026</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>04.08.2010</data>
+		<rata>11.4876</rata>
+		<ric>ridicat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>04.02.2013</data>
+		<rata>9.2033</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>04.02.2013</data>
+		<rata>5.1376</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>04.02.2013</data>
+		<rata>6.9803</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>04.02.2013</data>
+		<rata>3.3727</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>04.02.2013</data>
+		<rata>6.435</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>04.02.2013</data>
+		<rata>6.8736</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>04.02.2013</data>
+		<rata>6.8693</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>04.02.2013</data>
+		<rata>6.7451</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>04.02.2013</data>
+		<rata>7.1314</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>07.01.2013</data>
+		<rata>6.6043</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>07.01.2013</data>
+		<rata>6.3589</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>07.01.2013</data>
+		<rata>6.44</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>07.01.2013</data>
+		<rata>7.0011</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>07.01.2013</data>
+		<rata>6.6257</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>07.01.2013</data>
+		<rata>3.663</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>07.01.2013</data>
+		<rata>7.4114</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>07.01.2013</data>
+		<rata>5.1866</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>07.01.2013</data>
+		<rata>9.2447</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>05.12.2012</data>
+		<rata>8.6861</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.12.2012</data>
+		<rata>5.9366</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>05.12.2012</data>
+		<rata>3.7077</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.12.2012</data>
+		<rata>4.8731</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.12.2012</data>
+		<rata>6.2082</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>05.12.2012</data>
+		<rata>6.1281</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.12.2012</data>
+		<rata>7.0219</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>05.12.2012</data>
+		<rata>6.4507</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.12.2012</data>
+		<rata>6.1897</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>05.11.2012</data>
+		<rata>8.4649</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>05.11.2012</data>
+		<rata>5.4867</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>05.11.2012</data>
+		<rata>5.8672</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>05.11.2012</data>
+		<rata>6.2573</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.11.2012</data>
+		<rata>5.9813</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>05.11.2012</data>
+		<rata>3.7286</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>05.11.2012</data>
+		<rata>6.1255</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>05.11.2012</data>
+		<rata>4.8032</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>05.11.2012</data>
+		<rata>6.7477</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>02.10.2012</data>
+		<rata>5.8137</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>02.10.2012</data>
+		<rata>5.9362</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>02.10.2012</data>
+		<rata>6.4664</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>02.10.2012</data>
+		<rata>5.4746</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>02.10.2012</data>
+		<rata>8.1645</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>02.10.2012</data>
+		<rata>5.4614</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>02.10.2012</data>
+		<rata>6.2082</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>02.10.2012</data>
+		<rata>3.6869</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>02.10.2012</data>
+		<rata>4.7535</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN OPTIM</entitate>
+		<data>03.07.2012</data>
+		<rata>5.1603</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>PENSIA MEA</entitate>
+		<data>03.07.2012</data>
+		<rata>5.9705</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD MEDIO</entitate>
+		<data>03.07.2012</data>
+		<rata>3.6144</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>CONCORDIA  MODERAT</entitate>
+		<data>03.07.2012</data>
+		<rata>8.6308</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>EUREKO CONFORT</entitate>
+		<data>03.07.2012</data>
+		<rata>5.844</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT MODERATO</entitate>
+		<data>03.07.2012</data>
+		<rata>5.6533</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>STABIL</entitate>
+		<data>03.07.2012</data>
+		<rata>5.0833</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.07.2012</data>
+		<rata>4.7955</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>RAIFFEISEN ACUMULARE</entitate>
+		<data>03.07.2012</data>
+		<rata>5.3635</rata>
+		<ric>echilibrat</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>04.02.2013</data>
+		<rata>4.3134</rata>
+		<ric>dinamic</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>04.02.2013</data>
+		<rata>6.6254</rata>
+		<ric>dinamic</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>07.01.2013</data>
+		<rata>4.6498</rata>
+		<ric>dinamic</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>07.01.2013</data>
+		<rata>6.7996</rata>
+		<ric>dinamic</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.12.2012</data>
+		<rata>5.6557</rata>
+		<ric>dinamic</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.12.2012</data>
+		<rata>4.3922</rata>
+		<ric>dinamic</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>05.11.2012</data>
+		<rata>4.0107</rata>
+		<ric>dinamic</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>05.11.2012</data>
+		<rata>4.9371</rata>
+		<ric>dinamic</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>02.10.2012</data>
+		<rata>4.1427</rata>
+		<ric>dinamic</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>02.10.2012</data>
+		<rata>5.0998</rata>
+		<ric>dinamic</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>NN ACTIV</entitate>
+		<data>03.07.2012</data>
+		<rata>3.9839</rata>
+		<ric>dinamic</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>AZT VIVACE</entitate>
+		<data>03.07.2012</data>
+		<rata>4.8132</rata>
+		<ric>dinamic</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>OTP STRATEG</entitate>
+		<data>02.12.2011</data>
+		<rata>5.0228</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD PRIMO</entitate>
+		<data>02.12.2011</data>
+		<rata>6.9306</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD PRIMO</entitate>
+		<data>04.11.2011</data>
+		<rata>7.0106</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>OTP STRATEG</entitate>
+		<data>04.11.2011</data>
+		<rata>5.9239</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>OTP STRATEG</entitate>
+		<data>03.10.2011</data>
+		<rata>6.3857</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.10.2011</data>
+		<rata>5.6303</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD PRIMO</entitate>
+		<data>03.10.2011</data>
+		<rata>7.1086</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>OTP STRATEG</entitate>
+		<data>05.09.2011</data>
+		<rata>6.4958</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.09.2011</data>
+		<rata>6.0915</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD PRIMO</entitate>
+		<data>05.09.2011</data>
+		<rata>7.2234</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>01.08.2011</data>
+		<rata>6.8232</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>OTP STRATEG</entitate>
+		<data>01.08.2011</data>
+		<rata>6.5849</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BRD PRIMO</entitate>
+		<data>01.08.2011</data>
+		<rata>7.3272</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>OTP STRATEG</entitate>
+		<data>01.07.2011</data>
+		<rata>6.6582</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>01.07.2011</data>
+		<rata>7.0109</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>OTP STRATEG</entitate>
+		<data>02.06.2011</data>
+		<rata>6.7912</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>02.06.2011</data>
+		<rata>7.156</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>04.05.2011</data>
+		<rata>7.8615</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>OTP STRATEG</entitate>
+		<data>04.05.2011</data>
+		<rata>6.8604</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>01.04.2011</data>
+		<rata>8.0789</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>OTP STRATEG</entitate>
+		<data>01.04.2011</data>
+		<rata>7.0648</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>01.03.2011</data>
+		<rata>7.8752</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>OTP STRATEG</entitate>
+		<data>01.03.2011</data>
+		<rata>7.2333</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>OTP STRATEG</entitate>
+		<data>01.02.2011</data>
+		<rata>7.3368</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>01.02.2011</data>
+		<rata>8.1077</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.01.2011</data>
+		<rata>8.0343</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>OTP STRATEG</entitate>
+		<data>05.01.2011</data>
+		<rata>7.4738</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.12.2010</data>
+		<rata>8.2969</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>OTP STRATEG</entitate>
+		<data>03.12.2010</data>
+		<rata>7.5089</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>OTP STRATEG</entitate>
+		<data>02.11.2010</data>
+		<rata>7.4905</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>02.11.2010</data>
+		<rata>8.4657</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>OTP STRATEG</entitate>
+		<data>05.10.2010</data>
+		<rata>7.4683</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>05.10.2010</data>
+		<rata>8.3972</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>03.09.2010</data>
+		<rata>8.4637</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>OTP STRATEG</entitate>
+		<data>03.09.2010</data>
+		<rata>7.4254</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>BCR PLUS</entitate>
+		<data>04.08.2010</data>
+		<rata>8.5904</rata>
+		<ric>scazut</risc>
+	</item>
+	<item>
+		<pilon>Pilon 3</pilon>
+		<entitate>OTP STRATEG</entitate>
+		<data>04.08.2010</data>
+		<rata>7.3856</rata>
+		<ric>scazut</risc>
+	</item>
+</dataset>
